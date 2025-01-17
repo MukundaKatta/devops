@@ -41,6 +41,6 @@ if __name__ == "__main__":
                   f"Department: {emp['Department']}, Position: {emp['Position']}, "
                   f"Salary: {emp['Salary']}")
     else:
-        print("No employees were loaded. Please check the file and try again.")
+        print("No employees were loaded. Please check the file and try again. ")
 
 
